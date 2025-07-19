@@ -1,0 +1,125 @@
+// -*- mode: jsonc -*-
+{
+    // "layer": "top", // Waybar at top layer
+    // "position": "bottom", // Waybar position (top|bottom|left|right)
+    "height": 30, // Waybar height (to be removed for auto height)
+    "width": 1900, // Waybar width
+    "margin-top": 5,
+    "spacing": 3, // Gaps between modules (4px)
+    // Choose the order of the modules
+    "modules-left": [
+        "hyprland/workspaces",
+        "sway/mode",
+        "sway/scratchpad"
+    ],
+    "modules-center": [
+        //"sway/window"
+        "clock",
+        "custom/media"
+    ],
+    "modules-right": [
+        "pulseaudio",
+        //"cpu",
+        //"memory",
+        //"temperature",
+        //"backlight",
+        //"sway/language",
+        //"idle_inhibitor",
+        //"network",
+        "battery",
+        "power-profiles-daemon",
+        "tray"
+    ],
+    "clock": {
+        // "timezone": "America/New_York",
+        "tooltip-format": "<big>{:%Y %B}</big>\n<tt><small>{calendar}</small></tt>",
+        "format-alt": "{:%Y-%m-%d}"
+    },
+    "tray": {
+    "spacing": 12
+    },
+    "battery": {
+        "states": {
+            // "good": 95,
+            "warning": 30,
+            "critical": 15
+        },
+        "format": "{capacity}% {icon}",
+        "format-full": "{capacity}% {icon}",
+        "format-charging": "{capacity}% ",
+        "format-plugged": "{capacity}% ",
+        "format-alt": "{time} {icon}",
+        // "format-good": "", // An empty format will hide the module
+        // "format-full": "",
+        "format-icons": ["", "", "", "", ""]
+    },
+    "battery#bat2": {
+        "bat": "BAT2"
+    },
+    "power-profiles-daemon": {
+      "format": "{icon}",
+      "tooltip-format": "Power profile: {profile}\nDriver: {driver}",
+      "tooltip": true,
+      "format-icons": {
+        "default": "",
+        "performance": "",
+        "balanced": "",
+        "power-saver": ""
+      }
+    },
+    "network": {
+        // "interface": "wlp2*", // (Optional) To force the use of this interface
+        "format-wifi": "{essid} ",
+        "format-ethernet": "{ipaddr}/{cidr} ",
+        "tooltip-format": "{ifname} via {gwaddr} ",
+        "format-linked": "{ifname} (No IP) ",
+        "format-disconnected": "Disconnected ⚠",
+        "format-alt": "{ifname}: {ipaddr}/{cidr}"
+    },
+    "pulseaudio": {
+        // "scroll-step": 1, // %, can be a float
+        "format": "{volume}% {icon}",
+        "format-icons": {
+            "headphone": "",
+            "hands-free": "",
+            "headset": "",
+            "phone": "",
+            "portable": "",
+            "car": "",
+            "default": ["", "", ""]
+        },
+        "on-click": "pavucontrol"
+    },
+    "pulseaudio/slider": {
+    "min": 0,
+    "max": 100,
+    "orientation": "horizontal"
+    },
+    "custom/media": {
+        "format": "{icon} {text}",
+        "tooltip-format": "{text}", 
+        "return-type": "json",
+        "max-length": 20,
+        "format-icons": {
+            "spotify": "",
+            "default": "󰎆"
+        },
+        "escape": true,
+        "exec": "~/.config/waybar/mediaplayer.py"
+        // "exec": "$HOME/.config/waybar/mediaplayer.py --player spotify"
+    },
+    "hyprland/workspaces": {
+	"format": "{icon}",
+	"format-icons": {
+		"1": "󰈹",
+		"2": "",
+		"3": "",
+		"4": "",
+		"active": "",
+		"default": ""
+	},
+       "persistent-workspaces": {
+             "*": [1, 2, 3, 4] // 5 workspaces by default on every monitor
+       }
+   }
+}
