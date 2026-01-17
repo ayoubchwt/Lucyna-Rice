@@ -1,15 +1,19 @@
-<img width="1080" height="607" alt="image" src="https://github.com/user-attachments/assets/8209a5d1-779d-4684-b108-6b18426b5144" /># Lucyna Rice – Hyprland Setup
+# Lucyna Rice – Hyprland Setup
 
 A polished **Linux rice** running **Hyprland**, designed for a clean, aesthetic, and efficient desktop experience.
 
 > Check out the showcase on [r/LinuxPorn](https://www.reddit.com/r/LinuxPorn/comments/1m2su9k/hyprland_lucyna_rice/)
-![Lucyna Rice Preview](https://preview.redd.it/hyprland-lucyna-rice-v0-520k6tj84kdf1.png?width=1080&crop=smart&auto=webp&s=1e6522de4b3ebb55229f235f7652769ca94bf2a2)
-![Lucyna Rice Preview](https://preview.redd.it/hyprland-lucyna-rice-v0-qke1asjk4kdf1.png?width=1080&crop=smart&auto=webp&s=48ce346eef913e370737e0ff4ce7c7fe1aa6f5e4)
-![Lucyna Rice Preview](https://preview.redd.it/hyprland-lucyna-rice-v0-oeqfnedy4kdf1.png?width=1080&crop=smart&auto=webp&s=143178fb12bd6a0a786390113a4795cc4345cc9b)
-![Lucyna Rice Preview](https://preview.redd.it/hyprland-lucyna-rice-v0-05ytno395kdf1.png?width=1080&crop=smart&auto=webp&s=b06a9224f2a64b12e8a424811bc153ec520a9df3)
-![Lucyna Rice Preview](https://preview.redd.it/hyprland-lucyna-rice-v0-m9t3qf2o5kdf1.png?width=1080&crop=smart&auto=webp&s=e3c4c54502f51dfc0286c8651dc630cf32e9e9b7) 
->  
 
+---
+
+## Screenshots
+
+![Lucyna Rice Preview 1](https://github.com/user-attachments/assets/8209a5d1-779d-4684-b108-6b18426b5144)
+![Lucyna Rice Preview 2](https://preview.redd.it/hyprland-lucyna-rice-v0-520k6tj84kdf1.png?width=1080&crop=smart&auto=webp&s=1e6522de4b3ebb55229f235f7652769ca94bf2a2)
+![Lucyna Rice Preview 3](https://preview.redd.it/hyprland-lucyna-rice-v0-qke1asjk4kdf1.png?width=1080&crop=smart&auto=webp&s=48ce346eef913e370737e0ff4ce7c7fe1aa6f5e4)
+![Lucyna Rice Preview 4](https://preview.redd.it/hyprland-lucyna-rice-v0-oeqfnedy4kdf1.png?width=1080&crop=smart&auto=webp&s=143178fb12bd6a0a786390113a4795cc4345cc9b)
+![Lucyna Rice Preview 5](https://preview.redd.it/hyprland-lucyna-rice-v0-05ytno395kdf1.png?width=1080&crop=smart&auto=webp&s=b06a9224f2a64b12e8a424811bc153ec520a9df3)
+![Lucyna Rice Preview 6](https://preview.redd.it/hyprland-lucyna-rice-v0-m9t3qf2o5kdf1.png?width=1080&crop=smart&auto=webp&s=e3c4c54502f51dfc0286c8651dc630cf32e9e9b7)
 
 ---
 
