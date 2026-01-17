@@ -8,24 +8,42 @@ A polished **Linux rice** running **Hyprland**, designed for a clean, aesthetic,
 
 ## Screenshots
 
-<a href="https://github.com/user-attachments/assets/8209a5d1-779d-4684-b108-6b18426b5144">
-  <img src="https://github.com/user-attachments/assets/8209a5d1-779d-4684-b108-6b18426b5144" width="600" />
-</a>
-<a href="https://preview.redd.it/hyprland-lucyna-rice-v0-520k6tj84kdf1.png?width=1080&crop=smart&auto=webp&s=1e6522de4b3ebb55229f235f7652769ca94bf2a2">
-  <img src="https://preview.redd.it/hyprland-lucyna-rice-v0-520k6tj84kdf1.png?width=1080&crop=smart&auto=webp&s=1e6522de4b3ebb55229f235f7652769ca94bf2a2" width="600" />
-</a>
-<a href="https://preview.redd.it/hyprland-lucyna-rice-v0-qke1asjk4kdf1.png?width=1080&crop=smart&auto=webp&s=48ce346eef913e370737e0ff4ce7c7fe1aa6f5e4">
-  <img src="https://preview.redd.it/hyprland-lucyna-rice-v0-qke1asjk4kdf1.png?width=1080&crop=smart&auto=webp&s=48ce346eef913e370737e0ff4ce7c7fe1aa6f5e4" width="600" />
-</a>
-<a href="https://preview.redd.it/hyprland-lucyna-rice-v0-oeqfnedy4kdf1.png?width=1080&crop=smart&auto=webp&s=143178fb12bd6a0a786390113a4795cc4345cc9b">
-  <img src="https://preview.redd.it/hyprland-lucyna-rice-v0-oeqfnedy4kdf1.png?width=1080&crop=smart&auto=webp&s=143178fb12bd6a0a786390113a4795cc4345cc9b" width="600" />
-</a>
-<a href="https://preview.redd.it/hyprland-lucyna-rice-v0-05ytno395kdf1.png?width=1080&crop=smart&auto=webp&s=b06a9224f2a64b12e8a424811bc153ec520a9df3">
-  <img src="https://preview.redd.it/hyprland-lucyna-rice-v0-05ytno395kdf1.png?width=1080&crop=smart&auto=webp&s=b06a9224f2a64b12e8a424811bc153ec520a9df3" width="600" />
-</a>
-<a href="https://preview.redd.it/hyprland-lucyna-rice-v0-m9t3qf2o5kdf1.png?width=1080&crop=smart&auto=webp&s=e3c4c54502f51dfc0286c8651dc630cf32e9e9b7">
-  <img src="https://preview.redd.it/hyprland-lucyna-rice-v0-m9t3qf2o5kdf1.png?width=1080&crop=smart&auto=webp&s=e3c4c54502f51dfc0286c8651dc630cf32e9e9b7" width="600" />
-</a>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/user-attachments/assets/8209a5d1-779d-4684-b108-6b18426b5144">
+        <img src="https://github.com/user-attachments/assets/8209a5d1-779d-4684-b108-6b18426b5144" width="300" /><br>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://preview.redd.it/hyprland-lucyna-rice-v0-520k6tj84kdf1.png?width=1080&crop=smart&auto=webp&s=1e6522de4b3ebb55229f235f7652769ca94bf2a2">
+        <img src="https://preview.redd.it/hyprland-lucyna-rice-v0-520k6tj84kdf1.png?width=1080&crop=smart&auto=webp&s=1e6522de4b3ebb55229f235f7652769ca94bf2a2" width="300" /><br>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://preview.redd.it/hyprland-lucyna-rice-v0-qke1asjk4kdf1.png?width=1080&crop=smart&auto=webp&s=48ce346eef913e370737e0ff4ce7c7fe1aa6f5e4">
+        <img src="https://preview.redd.it/hyprland-lucyna-rice-v0-qke1asjk4kdf1.png?width=1080&crop=smart&auto=webp&s=48ce346eef913e370737e0ff4ce7c7fe1aa6f5e4" width="300" /><br>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://preview.redd.it/hyprland-lucyna-rice-v0-oeqfnedy4kdf1.png?width=1080&crop=smart&auto=webp&s=143178fb12bd6a0a786390113a4795cc4345cc9b">
+        <img src="https://preview.redd.it/hyprland-lucyna-rice-v0-oeqfnedy4kdf1.png?width=1080&crop=smart&auto=webp&s=143178fb12bd6a0a786390113a4795cc4345cc9b" width="300" /><br>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://preview.redd.it/hyprland-lucyna-rice-v0-05ytno395kdf1.png?width=1080&crop=smart&auto=webp&s=b06a9224f2a64b12e8a424811bc153ec520a9df3">
+        <img src="https://preview.redd.it/hyprland-lucyna-rice-v0-05ytno395kdf1.png?width=1080&crop=smart&auto=webp&s=b06a9224f2a64b12e8a424811bc153ec520a9df3" width="300" /><br>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://preview.redd.it/hyprland-lucyna-rice-v0-m9t3qf2o5kdf1.png?width=1080&crop=smart&auto=webp&s=e3c4c54502f51dfc0286c8651dc630cf32e9e9b7">
+        <img src="https://preview.redd.it/hyprland-lucyna-rice-v0-m9t3qf2o5kdf1.png?width=1080&crop=smart&auto=webp&s=e3c4c54502f51dfc0286c8651dc630cf32e9e9b7" width="300" /><br>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
